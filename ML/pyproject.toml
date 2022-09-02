@@ -11,6 +11,10 @@ scikit-learn = "^1.1.2"
 pandas = "^1.4.3"
 tqdm = "^4.64.0"
 seaborn = "^0.11.2"
+optuna = "^2.10.1"
+plotly = "^5.10.0"
+jupyter-dash = "^0.4.2"
+ipywidgets = "^8.0.1"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^6.15.1"
