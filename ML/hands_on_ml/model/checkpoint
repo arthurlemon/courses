@@ -1,0 +1,2 @@
+model_checkpoint_path: "functional_model"
+all_model_checkpoint_paths: "functional_model"
